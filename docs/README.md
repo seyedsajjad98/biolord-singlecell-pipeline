@@ -1,1 +1,1 @@
-# Added PDF guide for Biolord pipeline.
+Added PDF guide for Biolord pipeline guide.
