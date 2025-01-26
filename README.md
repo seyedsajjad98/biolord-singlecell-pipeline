@@ -20,7 +20,7 @@ This repository is intended for demonstration purposes and is not functional for
 
 For implementation details:
 - See the [notebooks/](notebooks/) folder for the Biolord pipeline.
-- Refer to the [docs/biolord_pipeline_guide.pdf](docs/biolord_pipeline_guide.pdf) for a step-by-step guide.
+- Refer to the [docs/Biolord-pipeline-guide.ipynb - Colab.pdf](docs/Biolord-pipeline-guide.ipynb - Colab.pdf) for a step-by-step guide.
 
 Dependencies are listed in [environment/requirements.txt](environment/requirements.txt).
 ## Contribution
